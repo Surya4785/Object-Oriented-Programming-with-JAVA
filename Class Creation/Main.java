@@ -1,15 +1,11 @@
 public class Main {
-    public static void main(String[] args) {
-
-        
+    public static void main(String[] args) { 
         Dog myDog1 = new Dog(); 
-
         myDog1.name = "Buddy";
         myDog1.breed = "Golden Retriever";
         myDog1.age = 5;
       
         Dog myDog2 = new Dog();
-
         myDog2.name = "Lucy";
         myDog2.breed = "Poodle";
         myDog2.age = 3;
